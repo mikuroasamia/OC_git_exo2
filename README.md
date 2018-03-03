@@ -1,7 +1,7 @@
 # OC_git_exo2
 
-vive linux et les pingouins en costume.
+Cet exercice a pour objectif de mettre en pratique des notions acquises dans les deux premières parties du cours consacré à Git et GitHub.
 
-Vive aussi git et github mais surtout les octocats.
+Fichier modifié sur GitHub.
 
 Merci les devs !
