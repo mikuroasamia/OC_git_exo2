@@ -1,5 +1,7 @@
 # OC_git_exo2
 
-vive les pingouins en costume et linux.
+vive linux et les pingouins en costume.
 
-Vive aussi les octocats, git et github.
+Vive aussi git et github mais surtout les octocats.
+
+Merci les devs !
